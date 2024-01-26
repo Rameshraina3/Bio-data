@@ -1,0 +1,115 @@
+.my-logo{
+    height: 80px;
+    width: 80px;
+}
+.mass-body{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('data:image/jpeg;base64,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')
+}
+.item-nav{
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.item-nav:hover{
+    color:white;
+}
+.ancor{
+    margin-left: auto ;
+}
+.body-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60vh;
+}
+.box-left{
+    color:black;
+    text-align: right;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left:200px ;
+}
+.my-img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    
+
+}
+.para{
+    font-size:15px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box-right{
+    padding-left: 20px;
+}
+.what-h1{
+    color: greenyellow;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Georgia, 'Times New Roman', Times, serif';
+}
+.what-p{
+color: black;
+text-align: center;
+font-size: 18px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding-left: 100px;
+padding-right: 100px;
+}
+.card{
+    background-color: transparent;
+    color: black;
+    border-color: blue;
+    filter:drop-shadow();
+    height:750px;
+}
+.photo{
+    padding: 10px;
+    height: 300px;
+    width: 630px;
+}
+
+.card-h1{
+    padding-top: 20px;
+    text-align: center;
+}
+.card-p{
+    color: yellow;
+    padding: 10px;
+    text-align: center;
+}
+.anc{
+    text-align: center;
+    color: blue;
+}
+.sr-h1{
+    text-align: center;
+    color: greenyellow;
+}
+
+.Contact-info{
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    color: dodgerblue;
+}
+.Services-icons{
+    text-align: center;
+}
+.img-icon{
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+}
+.text.icon{
+    height: 2px;
+    width: 2px;
+   
+}
